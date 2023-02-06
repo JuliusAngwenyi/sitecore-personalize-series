@@ -1,0 +1,5 @@
+{
+    "operationName": null,
+    "variables": {},
+    "query": "{\n allM_Asset () {\n   results { \n id \n title } } }"
+}
