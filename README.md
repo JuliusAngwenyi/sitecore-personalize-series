@@ -8,4 +8,6 @@ Below is the high level architectues for this solution
 <img src="docs/sitecore-personalize-mobile-app-architecture.png" alt="Reference architecture" width="400"/>
 	
 
-More updates to follow.
+**Other code snippets**  
+Don't forget to check out our [GitHub Gists page](https://gist.github.com/JuliusAngwenyi)
+
